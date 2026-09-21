@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="unspecified"
+    DATE="2025-12-17T13:41:31+02:00" FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:61ee3117-e199-49ca-8258-9415d9cf90e1</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">380</PROPERTY>
+    </HEADER>
+<TIME_ORDER>
+    <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+    <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="3000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="3000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="4000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="4000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="5000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="5000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="6000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="6000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="7000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="7000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="8000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="8000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="9000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="9000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="10000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="10000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="11000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="11000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="12000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="12000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="13000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="13000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="14000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="14000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="15000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="15000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="16000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="16000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="17000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="17000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="18000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="18000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="19000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="19000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="20000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="20000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="21000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="21000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="22000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="22000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="23000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="23000"/>
+    <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="24000"/>
+</TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="refT" PARTICIPANT="NEA1937f" TIER_ID="ref@NEA1937f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>. 01</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>. 02</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>. 03</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>. 04</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a335"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>. 05</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>. 06</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>. 07</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>. 08</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a336"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>. 09</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>. 10</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>. 11</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>. 12</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a341"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>. 13</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a342"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>. 14</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>. 15</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a374"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>. 16</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>. 17</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>. 18</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a347"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>. 19</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>. 20</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>. 21</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>. 22</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>. 23</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>. 24</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="sjd" LINGUISTIC_TYPE_REF="orthT"
+        PARENT_REF="ref@NEA1937f" PARTICIPANT="NEA1937f" TIER_ID="orth@NEA1937f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Аскольд Бажанов шэ̄ннтма лӣ 1934 ыгесьт Нӯһтҍя̄ввьр сыйтэсьт Мурманскэ обласьтэсьт.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>Адтҍ сонн я̄лл Ре̄ввда сыйтэсьт, ноайтлэдтма лӣ я сост ле̄в кӯххьт па̄ррнэ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Сонн лӣ о̄һпнуввма Ленинградэсьт педагогическэ институтэсьт Таввял ре̄ввьн о̄ллмае факультэтэсьт.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>Па̄ррнэ па̄лесьт сонн лӣ лыһкма пӯдзэ пыннье ве̄һкенҍ,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a337" ANNOTATION_REF="a335">
+                <ANNOTATION_VALUE>маӈӈа ро̄бхушшма лӣ трактористэнҍ, электромеханиканҍ рӯднигкэсьт я электромонтёррэнҍ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Сост ля̄йй выййтма 1983 ыгесьт Мурман ланӭсьт стихотворенье кыррьй «Пе̄ййв ча̄р альн» рӯшш кӣлэсьт.¶¶</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>Кӣллт са̄мь кӣлле ёаркэсьт Ельцэ Нӣна Афанасьева.¶</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>ГИРЙЙИ СИСДОАЛЛУ: «Вӣллькэсь пуаз» лӣ моайнас кырьй нӯрр пӯдзэ пынней баяс,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a338" ANNOTATION_REF="a336">
+                <ANNOTATION_VALUE>Тоанла баяс, ке̄нн шурьмусс юрртэ лӣ шэ̄ннтэ вуэҋҋтъенҍ маӈельт пӯдзэ кэ̄рхэллмужэсьт шӯрр Таввял Пра̄зьнэгкесьт Мурман ланӭсьт.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Сонн та̄т соагкэ вӣллькэсь пӯдзэ я ма̄тҍхэ со̄н куллтэллэ о̄ллмэ па̄кнэмужэтҍ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Тэдт лыһк а̄нн пӯдзэ пынньесьт е̄ннэ вышшэлвудтэ, кӣҏшэмвуд я е̄гкьмуж.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>Маӈельт пӯдзэ кэ̄рхэллъе быдт воа̄лмаш шэ̄ннтэ югке рэ̄зэтҍ вуэҋтэ ста̄рт кя̄йн альн,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a343" ANNOTATION_REF="a341">
+                <ANNOTATION_VALUE>тэнн гуэйкэ быдт соннӭ ӣджяс е̄ннэ чинндэдтэ, штобэ эле ёррэ, эле пуадтраһтӭ а̄йк</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a344" ANNOTATION_REF="a342">
+                <ANNOTATION_VALUE>я вя̄л быдт пӯдзэ туаррье ӣжянт лоа̄ччкэльвудэнҍ я сӯрвасвудэнҍ.¶</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Тэдта кыррьй элля лышшэ тэнн баяс,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a375" ANNOTATION_REF="a374">
+                <ANNOTATION_VALUE>сонн мушштал вя̄л югке пя̄ййвса ло̄ссесь ча̄рр о̄ллмэ робэт баяс, кӯ манн о̄ллтлэзэсьт сыйтэнҍ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>Пӯдзэ пынней пуэраст тӣдтӭв ча̄рр тӯетҍ, ве̄кьхэв нӯрршэтҍ выгкэ эвтэс мадтар а̄е юрртэтҍ я тӯетҍ.¶</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>Чудзэтҍ карвуллэмэнҍ о̄ммпэ суткэ, Тоанла е̄ннэ мӣлле пуадт:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a348" ANNOTATION_REF="a347">
+                <ANNOTATION_VALUE>Мӣ со̄нэнҍ ля̄йй эввтэль; юррт ажесь нӯрр па̄ль байя, Шӯрр Шаннт Е̄ммне туар байя.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>Пугк э̄ллмсэ юрртэ ся̄гкнэнҍ Тоанлэсьт е̄рркъя мо̄джесь са̄мь моаййнсэгуэйм.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>Ӣллькъюввэв ле пугк Тоанал юрртэ, тэнн баяс быдт тыйе ӣджянт ло̄гкэ я тӣдтӭ.¶¶</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>ISBN 82-7374-300-4</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>9 788373 743008</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>Tаввял Кыррьй в. а.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="sjd" LINGUISTIC_TYPE_REF="orth(orig)T"
+        PARENT_REF="ref@NEA1937f" PARTICIPANT="NEA1937f" TIER_ID="orth(orig)@NEA1937f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a315" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Аскольд Бажанов шэ̄ннтма лӣ 1934 ыгесьт Нӯ'тҍя̄ввьр сыйтэсьт Мурманскэ обсласьтэсьт.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a316" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>Адтҍ со̄нн я̄лл Ре̄ввда сыйтэсьт, ноайтлэдтма лӣ я сост ле̄в кӯ'т па̄ррнэ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a317" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Со̄нн лӣ о̄'пнуввма Ле̄нинградэсьт педагогическэ институтэсьт Таввял ре̄ввьн о̄ллмайе факультетэсьт.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a318" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>Па̄ррнэ па̄лесьт со̄нн лӣ лы'кма пӯдзэ пыннье ве̄'кенҍ,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a339" ANNOTATION_REF="a335">
+                <ANNOTATION_VALUE>маӈӈа ро̄бхушшма лӣ трактористэннҍ, электромеханиканнҍ рӯдникэсьт я электромонтёррэнҍ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a319" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Сост ля̄йй выййтма 1983 ыгесьт Мурман ланӭсьт стихотворенье кыррьй «Пе̄ййв ча̄р альн» рӯшш кӣлэсьт.¶¶</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a320" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>Кӣллт са̄мь кӣлле ёаркэсьт Ельцэ Нӣна Афанасьева.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a321" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>Гирййи Сисдоаллу «Вӣллькесь пуаз» лӣ моайнас кырьй нӯрр пӯдзэ пынней баяс,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a340" ANNOTATION_REF="a336">
+                <ANNOTATION_VALUE>Тоанла баяс, ке̄нн шурьмусс юрртэ лӣ шэ̄ннтэ вуэҋтҍенҍ маӈельт пӯдзэ кэ̄рхэллмужэсьт шӯрр Таввял Пра̄зьнэгкесьт Мурман ланӭсьт.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a322" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Со̄нн та̄т соагкэ вӣллькесь пӯдзэ я ма̄тҍхэ со̄н куллтэллэ о̄ллмэ па̄кнэмужэтҍ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a323" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Тэдт лы'к а̄нн пӯдзэ пынньесьт е̄ннэ вышшэлвудтэ, кӣҏшэмвуд я е̄гкьмуж.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a324" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>Маӈельт пӯдзэ кэ̄рхэллъе быдт воалмаш шэ̄ннтэ югке рэ̄зэтҍ вуэҋтэ ста̄рт кя̄йн альн,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a345" ANNOTATION_REF="a341">
+                <ANNOTATION_VALUE>тэнн гуэйкэ быдт соннӭ ӣджяс е̄ннэ чинндэдтэ, штобэ эле ёррэ, эле пуадтра'тӭ а̄ййк</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a346" ANNOTATION_REF="a342">
+                <ANNOTATION_VALUE>я вял быдт пӯдзэ туаррье ӣжянт лоаччкэльвудэнҍ я сӯррвасвудэнҍ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a325" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Тэдта кыррьй элля лышэ тэнн баяс,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a376" ANNOTATION_REF="a374">
+                <ANNOTATION_VALUE>сонн мушштал вя̄л югке пя̄ййвсэ ло̄ссесь ча̄рр о̄ллмэ робэт баэс, кӯ манн о̄ллтлэзэсьт сыйтэнҍ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a326" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>Пӯдзэ пынней пуэраст тӣдтӭв ча̄рр тӯетҍ, ве̄кьхэв нӯрршэтҍ выгкэ эвтэс мадтар-а̄е юрртэтҍ я тӯетҍ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a327" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>Чудзэтҍ карвуллэмэнҍ омпэ суткэ, Тоанла е̄ннэ мӣлле пуадт,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a349" ANNOTATION_REF="a347">
+                <ANNOTATION_VALUE>мӣ со̄нэнҍ ля̄йй эввтэль, юррт ажесь нӯрр па̄ль байя, Шӯур Шаннт Е̄ммьне туар байя.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a328" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>Пугк э̄ллмса юрртэ ся̄гкнэнҍ Тоанлэсьт е̄рркъя мо̄джесь са̄мь моаййнсэгуэйм.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a329" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>Ӣллькъювэвв ле пугк Тоанал юрртэ, тэнн баяс быдт тыйе ӣджянт ло̄гкэ я тӣдтӭ.¶¶</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a331" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>ISBN 82-7374-300-4</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a332" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>9 788373 743008</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a334" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>Tаввял Кыррьй в.а.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="deu" LINGUISTIC_TYPE_REF="ft-deuT"
+        PARENT_REF="orth@NEA1937f" PARTICIPANT="NEA1937f" TIER_ID="ft-deu@NEA1937f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a350" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>Askold Baschanow wurde 1934 im Ort Notosero in der Oblast Murmansk geboren.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a351" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>Jetzt lebt er im Ort Rewda, ist verheiratet, und er hat zwei Kinder.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a352" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Er hat in Leningrader an der Fakultät für die kleinen Völker des Nordens am pädagagischen Institut studiert.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a353" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>In der Kindheit hat er als Rentierhirtengehilfe gearbeitet.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a354" ANNOTATION_REF="a337">
+                <ANNOTATION_VALUE>Später hat er als Traktorist gearbeitet, als Elektromechaniker in einem Bergwerk und als Elektroingenieur. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a355" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>1983 erschien sein russischsprachiger Gedichtband „Sonne über der Tundra“ in Murmansk.¶¶</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a356" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>Ins Kildinsamische übersetzte Nina Jelissejewna Afanassjewa.¶</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a357" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>Inhalt: „Weißes Rentier“ ist eine Novelle über einen jungen Rentierhirten.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a358" ANNOTATION_REF="a338">
+                <ANNOTATION_VALUE>Über Danilka, dessen größter Wunsch es ist Sieger zu werden beim Skijöring auf dem Festival des Nordens in Murmansk.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a359" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>Er möchte ein weißes Rentier einfangen und es so ausbilden, dass es auf menschliche Kommandos hört.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a360" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>Diese Aufgabe erfordert viel Einsatz vom Rentierhirten, Ausdauer und Geduld.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a361" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>Eine Fahrerin beim Skijöring muss auf ganz unterschiedliche Bedingungen auf der Rennstrecke vorbereitet sein.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a362" ANNOTATION_REF="a343">
+                <ANNOTATION_VALUE>Deshalb muss sie selbst viel trainieren, um nicht zu stürzen und auch keine Zeit zu verlieren.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a363" ANNOTATION_REF="a344">
+                <ANNOTATION_VALUE>Und gleichzeitig muss die eigene Geschicklichkeit und Lebhaftigkeit des Rentiers aufrechterhalten werden.¶</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a364" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>Das Buch handelt nicht nur davon.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a378" ANNOTATION_REF="a375">
+                <ANNOTATION_VALUE>Es erzählt auch vom schweren Arbeitsalltag der Menschen in der Tundra, wie er weit entfernt von den Siedlungen stattfindet.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a365" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>Die Rentierhirten, die mit den Arbeiten in der Tundra gut vertraut sind, helfen den Jungen, das Wissen und die Traditionen der Vorfahren weiterzuführen.¶</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a366" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>Beim Hüten der Herde Tag und Nacht kommt Danilka vieles in den Sinn:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a367" ANNOTATION_REF="a348">
+                <ANNOTATION_VALUE>Wie war es für ihn früher; er denkt über Vaters Jugendzeit nach, über den Großen Vaterländischen Krieg.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a368" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>Alle Tagträume geraten bei Danilka mit den wunderbaren traditionellen samischen Überlieferungen durcheinander.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a369" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>Werden sich Danilkas Wünsche alle erfüllen? Das müsst ihr selbst lesen und erfahren.¶¶</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a370" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>ISBN 82-7374-300-4</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a371" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>9 788373 743008</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a372" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>Davvi Girji AG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="ft-lingT" PARENT_REF="orth@NEA1937f"
+        PARTICIPANT="NEA1937f" TIER_ID="ft-ling@NEA1937f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a373" ANNOTATION_REF="a343">
+                <ANNOTATION_VALUE>Russisch ни … ни 'weder … noch'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a377" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>Pronomen unbelebt сонн</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a379" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>Essiv</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a380" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>в. а. = „акционерное общество“</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="refT" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="orthT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="wordT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ft-engT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ft-deuT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ft-nobT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ft-rusT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ft-sweT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ft-lingT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ft-finT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="lemmaT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="morphT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision"
+        CONTROLLED_VOCABULARY_REF="pos" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="posT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="orth(orig)T" TIME_ALIGNABLE="false"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00137447-001"
+        LANG_ID="sjd" LANG_LABEL="Kildin Sami (sjd)"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00138497-001"
+        LANG_ID="deu" LANG_LABEL="German (deu)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="pos">
+        <DESCRIPTION LANG_REF="und">part of speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">a</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="abbreviation" LANG_REF="und">abbr</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">pre</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="postposition" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="coordinator" LANG_REF="und">cc</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid6">
+            <CVE_VALUE DESCRIPTION="subordinator" LANG_REF="und">cs</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid7">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid8">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">i</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid9">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid10">
+            <CVE_VALUE DESCRIPTION="numeral" LANG_REF="und">num</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid11">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">pcle</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid12">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid13">
+            <CVE_VALUE DESCRIPTION="proper noun" LANG_REF="und">prop</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid14">
+            <CVE_VALUE DESCRIPTION="punctuation" LANG_REF="und">punct</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid15">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="lg">
+        <DESCRIPTION LANG_REF="und">language</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="German" LANG_REF="und">deu</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="Norwegian" LANG_REF="und">nob</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="English" LANG_REF="und">eng</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="Russian" LANG_REF="und">rus</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="Swedish" LANG_REF="und">swe</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="Kildin Saami" LANG_REF="und">sjd</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid6">
+            <CVE_VALUE DESCRIPTION="Ter Saami" LANG_REF="und">sjt</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid7">
+            <CVE_VALUE DESCRIPTION="Pite Saami" LANG_REF="und">sje</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid8">
+            <CVE_VALUE DESCRIPTION="Lule Saami" LANG_REF="und">smj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid9">
+            <CVE_VALUE DESCRIPTION="North Saami" LANG_REF="und">sme</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid10">
+            <CVE_VALUE DESCRIPTION="Komi-Zyrian" LANG_REF="und">kpv</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
