@@ -10,7 +10,7 @@ KSDC is divided into three sub-corpora:
 
 
 ## Authors and credits
-The originator of the dataset and main administrator of the project is [Michael Rießler](https://uefconnect.uef.fi/michael.riesler/). [Ilia Egorov](https://www.finnougristik.uni-muenchen.de/personen/wiss_ma/ilia-egorov/) and Evan Hansen are additional authors and administrators.
+The originator of the dataset and main administrator of the project is [Michael Rießler](https://uefconnect.uef.fi/michael.riesler/). [Ilia Egorov](https://www.finnougristik.uni-muenchen.de/personen/wiss_ma/ilia-egorov/) and [Evan Hansen](https://www.researchgate.net/profile/Evan-Hansen-5) are additional authors and administrators.
 
 If you use KSDC data, please provide the URL of this README file. [Rießler & Wilbur 2007](https://edoc.hu-berlin.de/handle/18452/16) describe the beginnings of the Kola Saami Documentation Project, which laid the foundation for this corpus. [Rießler 2024](https://aclanthology.org/2024.iwclul-1.18) and [Hansen 2025](https://aclanthology.org/2025.iwclul-1.7/) describe different stages in the development of KSDC. Please refer to one of these papers until KSDC is described more thoroughly in a dedicated publication.
 
@@ -31,7 +31,7 @@ Every KSDC sub-corpus is divided further in parts for "written" and "spoken" dat
 File naming conventions
 - The first three letters of the file name indicate the language using its ISO 639-3 language code.
 - The second section indicates the known or estimated date of origin. It always consists of eight digits in the format YYYYMMDD. Unknown months or days are represented by 00.
-- The third section, following an underscore, points to an entry in [KSDC.bib](https://github.com/langdoc/sjd/KSDC.bib), which contains bibliographical information on the original source of texts originating from printed publications.
+- The third section, following an underscore, points to an entry in [KSDC.bib](https://github.com/langdoc/sjd/meta/KSDC.bib), which contains bibliographical information on the original source of texts originating from printed publications.
 - A fourth section, where applicable and separated by a hyphen, identifies subsets of the source, e.g. individual chapters or topics.
 
 
@@ -62,7 +62,6 @@ The [Speakers overview](meta/sessions.md) provides a list of non-anonymised spea
 
 ## Work in progress
 The [Sessions overview](meta/sessions.md) provides more detailed information on the included data.
-
 
 Metadata
 - Create metadata files in CMDI format under each session.
