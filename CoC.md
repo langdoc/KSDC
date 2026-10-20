@@ -16,4 +16,5 @@ By collaborating in the KSDC project or receiving access to restricted KSDC data
 By adding my GitHub username below, I confirm that I have read and agree to this Code of Conduct.
 
 * [@meehkal](https://github.com/meehkal)
+* [@evmcha](https://github.com/evmcha)
 * @username
