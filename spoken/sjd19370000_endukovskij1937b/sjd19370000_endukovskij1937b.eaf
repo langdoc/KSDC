@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ANNOTATION_DOCUMENT AUTHOR="unspecified"
-    DATE="2025-12-22T15:56:05+02:00" FORMAT="3.0" VERSION="3.0"
+    DATE="2026-10-12T11:32:46+02:00" FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:214f4207-c801-4910-bdac-6a62809570ac</PROPERTY>
@@ -895,7 +895,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a354" ANNOTATION_REF="a220">
-                <ANNOTATION_VALUE>Кӣчесьт, кӯһтҍ чӯдтҍ чуэрьв вӯйев рыннҍтэ сыйе.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Кӣчесьт, кӯххьт чӯдтҍ чуэрьв вӯйев рыннҍтэ сыйе.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1732,11 +1732,6 @@
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="ft-lingT" PARENT_REF="orth@ADD1854m"
         PARTICIPANT="ADD1854m" TIER_ID="ft-ling@ADD1854m">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1055" ANNOTATION_REF="a384">
-                <ANNOTATION_VALUE>partitive interesting syntaxt</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1056" ANNOTATION_REF="a391">
                 <ANNOTATION_VALUE>partitive many, see Bible, perhaps not question particle</ANNOTATION_VALUE>
@@ -2660,7 +2655,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1638" ANNOTATION_REF="a354" PREVIOUS_ANNOTATION="a1637">
-                <ANNOTATION_VALUE>кӯһтҍ</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>кӯххьт</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3735,7 +3730,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1848" ANNOTATION_REF="a384">
-                <ANNOTATION_VALUE>Вӯллькэнҍ</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>вӯллькэнҍ</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4988,7 +4983,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2091" ANNOTATION_REF="a1638">
-                <ANNOTATION_VALUE>кӯһтҍ</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>кӯххьт</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
