@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ANNOTATION_DOCUMENT AUTHOR="unspecified"
-    DATE="2024-12-27T18:15:44+02:00" FORMAT="3.0" VERSION="3.0"
+    DATE="2026-11-26T07:16:56+01:00" FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:ff7e8c0e-9020-4b3e-a51a-221ab7a72f25</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">233</PROPERTY>
     </HEADER>
     <TIME_ORDER>
-        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="10000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="20000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="20000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="30000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="30000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="40000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="40000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="50000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="50000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="60000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="3000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="3000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="4000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="4000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="5000"/>
     </TIME_ORDER>
-    <TIER LINGUISTIC_TYPE_REF="refT" PARTICIPANT="XYZ1799z" TIER_ID="ref@XYZXYZ1799z">
+    <TIER LINGUISTIC_TYPE_REF="refT" PARTICIPANT="XYZ1799z" TIER_ID="ref@XYZ1799z">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
@@ -51,7 +51,7 @@
         </ANNOTATION>
     </TIER>
     <TIER LANG_REF="sjd" LINGUISTIC_TYPE_REF="orth(orig)T"
-        PARENT_REF="ref@XYZXYZ1799z" PARTICIPANT="XYZ1799z" TIER_ID="orth(orig)@XYZ1799z">
+        PARENT_REF="ref@XYZ1799z" PARTICIPANT="XYZ1799z" TIER_ID="orth(orig)@XYZ1799z">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a1">
                 <ANNOTATION_VALUE>Ååtj miena, ku lieh almest. Paſs låndſj tono namme.</ANNOTATION_VALUE>
@@ -79,30 +79,30 @@
         </ANNOTATION>
     </TIER>
     <TIER LANG_REF="sjd" LINGUISTIC_TYPE_REF="orthT"
-        PARENT_REF="ref@XYZXYZ1799z" PARTICIPANT="XYZ1799z" TIER_ID="orth@XYZ1799z">
+        PARENT_REF="ref@XYZ1799z" PARTICIPANT="XYZ1799z" TIER_ID="orth@XYZ1799z">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a1">
-                <ANNOTATION_VALUE>Аджь мӣнэ, кӯ ля̄к альмэсьт. Пассь ля̄нньч то̄нэ нэмм.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Аджь мӣнэ, кӯ ля̄х альмэсьт. Пассь ля̄нньч то̄нэ нэмм.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a9">
-                <ANNOTATION_VALUE>Да пуадт то̄нэ цоа̄рствэ. Ля̄нньч то̄нэ ва̄лльт е̄ммне альн, ко̄ххт альмэсьт.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Да пуадт то̄нэ цоа̄рствэ. Ля̄нньч то̄нэ ва̄лльт е̄ммне альн, коххт альмэсьт.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a17">
-                <ANNOTATION_VALUE>Анҍт мыйе та̄нн пяйвас та̄нн лэ̄йп, кӯ мыйе быдт.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Анҍт мыйе та̄нн пяйвас та̄нн ле̄̄йпь, кӯ мыйе быдт.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a21">
-                <ANNOTATION_VALUE>Я кӯдҍ мӣнэ ве̄лькэтҍ, ко̄ххт мыйй-гас кӯдтӭпь мӣнэ вя̄лклатҍ.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Я кӯдҍ мӣнэ ве̄лькэтҍ, коххт мыйй-гас кӯдтӭпь мӣнэ вя̄лклатҍ.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a25">
-                <ANNOTATION_VALUE>Я е̄ль выг мӣнэ кя̄һчлушшма. Ноэ пя̄ст мӣнэтҍ па̄н-бе̄лесьт. Та̄нн-гуэйкэ, штэ то̄нэ лӣ цоа̄рствэ я са̄мм я сла̄ввь а̄йкэсьт а̄ййка. Аминҍ.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Я е̄ль выг мӣнэ кя̄һчлушшма. Но пя̄ст мӣнэтҍ па̄н-белесьт. Та̄нн-гуэйкэ, штэ то̄нэ лӣ цоа̄рствэ я са̄мм я сла̄ввь а̄йкэсьт а̄ййка. Аминҍ.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -163,15 +163,15 @@
         </ANNOTATION>
     </TIER>
     <TIER LANG_REF="sjd" LINGUISTIC_TYPE_REF="orth(ksdp)T"
-        PARENT_REF="ref@XYZXYZ1799z" PARTICIPANT="XYZ1799z" TIER_ID="orth(ksdp)@XYZ1799z">
+        PARENT_REF="ref@XYZ1799z" PARTICIPANT="XYZ1799z" TIER_ID="orth(ksdp)@XYZ1799z">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a1">
-                <ANNOTATION_VALUE>Äʹǯǯ miin, kuu leax alʹmest. Paʹss leannjǯ toon nemm.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Aʹǯǯ miine, kuu leax alʹmest. Paʹss leannjǯ toone nemm.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a9">
-                <ANNOTATION_VALUE>Da puadd toon caarstva. Leannjǯ toon vallʹd jeemmnje allʹn, koxxt alʹmest.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Da puadd toone cåårstvâ. Leannjǯ toone vallʹt jeemmnje alʹn, koxxt alʹmest.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -181,17 +181,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a21">
-                <ANNOTATION_VALUE>Ja kuuʹd miin vielʹget, koxxt mijj-gâs kuuʹddep miin vealklat.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Ja kuuʹd miine vieelʹket, koxxt mijj=gâs kuuʹdtep miine veaalklat.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a25">
-                <ANNOTATION_VALUE>Ja miin ?? taan=guejke šte toon lii caarstve ja saamm ja slaaʹvv aajkesʹt aajjka. Amiʹn.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Ja jeʹl vɨg miine keaahčluššma. No peaast miinet paan=bieʹlest. Taan=guejke šte toone lii cåårstvâ ja saamm ja slaaʹvv aajkesʹt aajjka. Amiʹn.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER LINGUISTIC_TYPE_REF="ref(orig)T" PARENT_REF="ref@XYZXYZ1799z"
-        PARTICIPANT="XYZ1799z" TIER_ID="ref(orig)@XYZXYZ1799z">
+    <TIER LINGUISTIC_TYPE_REF="ref(orig)T" PARENT_REF="ref@XYZ1799z"
+        PARTICIPANT="XYZ1799z" TIER_ID="ref(orig)@XYZ1799z">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a223" ANNOTATION_REF="a1">
                 <ANNOTATION_VALUE>9</ANNOTATION_VALUE>
